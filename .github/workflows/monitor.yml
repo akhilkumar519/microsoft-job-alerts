@@ -1,1 +1,51 @@
+name: Microsoft job monitor
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'First check, then start. scan runs one normal check.'
+        required: true
+        type: choice
+        default: check
+        options: [check, start, scan]
+  schedule:
+    - cron: '7,22,37,52 * * * *'
+permissions:
+  contents: write
+concurrency:
+  group: microsoft-job-monitor
+  cancel-in-progress: false
+jobs:
+  monitor:
+    if: github.event_name == 'workflow_dispatch' || vars.MONITOR_ENABLED == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install browser
+        run: |
+          python -m pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+      - name: Check Microsoft and send notifications
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          MONITOR_MODE: ${{ inputs.mode || 'scan' }}
+        run: xvfb-run -a python cloud_monitor.py "$MONITOR_MODE"
+      - name: Save job history and pending alerts
+        if: always()
+        run: |
+          if [ ! -f cloud-state.json ]; then exit 0; fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- cloud-state.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m 'Save Microsoft job monitor state'
+          git pull --rebase origin "${{ github.event.repository.default_branch }}"
+          git push origin "HEAD:${{ github.event.repository.default_branch }}"
 
