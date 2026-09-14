@@ -9,7 +9,7 @@ on:
         default: check
         options: [check, start, scan]
   schedule:
-    - cron: '7,22,37,52 * * * *'
+    - cron: '11,26,41,56 * * * *'
 permissions:
   contents: write
 concurrency:
