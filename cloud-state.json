@@ -11,7 +11,7 @@
     ],
     [
       "last_success",
-      "2026-09-14T14:28:30.213093+00:00"
+      "2026-09-14T19:18:31.623153+00:00"
     ]
   ],
   "seen": [
@@ -74,6 +74,9 @@
     ],
     [
       "1970393556874084"
+    ],
+    [
+      "1970393556875419"
     ],
     [
       "1970393556887806"
@@ -428,6 +431,12 @@
     ]
   ],
   "outbox": [
+    [
+      "1970393556875419",
+      "telegram",
+      "Microsoft: Software Engineer II\nIndia, Karnataka, Bangalore + 1 more\nCheck eligibility\nAlternative or unclear requirements. A 2+ year requirement is not assumed suitable for a fresher.\nJob ID: 1970393556875419\nSource posted value: Sep 14, 2026\nFirst detected: 2026-09-14T19:18:30+00:00\n\nJob number\n200040449\nDate posted\nSep 14, 2026\nWork site\n3 days / week in-office\nTravel\nLess than 25%\nProfession\nSoftware Engineering\nDiscipline\nSoftware Engineering\nRole type\nIndividual Contributor\nEmployment type\nFull-Time\nOverview\n\n\nMicrosoft is a company where passionate innovators come to collaborate, envision what can be and take their careers further. This is a world of more possibilities, more innovation, more openness, and the sky is the limit thinking in a cloud-enabled world.\n\nMicrosoft’s Azure Data engineering team is leading the transformation of analytics in the world of data with products like databases, data integration, big data analytics, messaging & real-time analytics, and business intelligence. The products our portfolio include Microsoft Fabric, Azure SQL DB, Azure Cosmos DB, Azure PostgreSQL, Azure Data Factory, Azure Synapse Analytics, Azure Service Bus, Azure Event Grid, and Power BI. Our mission is to build the data platform for the age of AI, powering a new class of data-first applications and driving a data culture.\n\nWithin Azure Data, the databases team builds and maintains Microsoft's operational Database systems. We store and manage data in a structured way to enable multitude of applications across various industries. We are on a journey to enable developer friendly, mission-critical, AI enabled operational Databases across relational, non-relational and OSS offerings.\n\nThe Azure HorizonDB team is building a next-generation, cloud-native database platform designed for high performance, strong consistency, and seamless scalability. HorizonDB powers mission-critical applications with sub-millisecond latency, always-on availability, and deep alignment with modern, AI-driven workloads.\n\nWe are rethinking core database systems from the ground u\n\nApply: https://apply.careers.microsoft.com/careers/job/1970393556875419",
+      1
+    ],
     [
       "baseline-v1",
       "telegram",
