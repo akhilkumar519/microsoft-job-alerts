@@ -11,7 +11,7 @@
     ],
     [
       "last_success",
-      "2026-09-15T16:04:27.876724+00:00"
+      "2026-09-15T19:42:40.489638+00:00"
     ]
   ],
   "seen": [
@@ -475,6 +475,9 @@
       "1970393556995097"
     ],
     [
+      "1970393556997609"
+    ],
+    [
       "1970393556997808"
     ]
   ],
@@ -495,6 +498,12 @@
       "1970393556991552",
       "telegram",
       "Microsoft: Software Engineer II\nIndia, Karnataka, Bangalore\nCheck eligibility\nNo clear minimum-experience section; read the full listing.\nJob ID: 1970393556991552\nSource posted value: Sep 15, 2026\nFirst detected: 2026-09-15T11:42:54+00:00\n\nJob number\n200054330\nDate posted\nSep 15, 2026\nWork site\n3 days / week in-office\nTravel\nLess than 25%\nProfession\nSoftware Engineering\nDiscipline\nSoftware Engineering\nRole type\nIndividual Contributor\nEmployment type\nFull-Time\nOverview\n\n\n#MSC #MSCIDC\n\nAre you inspired to push the boundaries of how intelligent systems transform cloud experiences?\n \nDo you want to build next-generation Copilot-like experiences and AI-driven user interfaces that redefine how customers interact with cloud products?\n \nWelcome to the Edge Customer Experience team, part of Microsoft’s Specialized Cloud organization — where innovation meets real-world impact.\nWe are a team of passionate engineers, collaborators, and culture-builders delivering seamless, intelligent, and scalable experiences across the Edge portfolio — including Azure Local (formerly Azure Stack HCI), Arc Workload Orchestration, Site Manager, Azure Local Catalog, and Jumpstart.\n \nAzure Local delivers the power of Azure to the edge — a hyperconverged infrastructure (HCI) OS with cloud-managed intelligence, real-time insights, and Azure Arc integration.\n \nArc Workload Orchestration simplifies AI and application deployment across distributed edge environments using cloud-native orchestration and automation.\n \nOur team sits at the intersection of Edge + AI, building Copilot flows, inference systems, and adaptive interfaces that bring machine learning and reasoning closer to the user and the data.\n \nWe enable real-time decision-making, ultra-low-latency experiences, and trustworthy AI systems that operate securely at the edge and in the cloud.\nIf you’re passionate about AI-driven engineering — from intent understanding and data-driven insights to autonomous orchestration and predictive edge intelligence — this is where your work will ha\n\nApply: https://apply.careers.microsoft.com/careers/job/1970393556991552",
+      1
+    ],
+    [
+      "1970393556997609",
+      "telegram",
+      "Microsoft: Software Engineer II - AI/ML Infrastructure CoreAI\nIndia, Karnataka, Bangalore\nCheck eligibility\nNo clear minimum-experience section; read the full listing.\nJob ID: 1970393556997609\nSource posted value: Sep 15, 2026\nFirst detected: 2026-09-15T19:42:39+00:00\n\nJob number\n200055581\nDate posted\nSep 15, 2026\nWork site\n3 days / week in-office\nTravel\nLess than 25%\nProfession\nSoftware Engineering\nDiscipline\nSoftware Engineering\nRole type\nIndividual Contributor\nEmployment type\nFull-Time\nOverview\n\n\nIf you’re excited by the challenge of shaping the future of AI, the AI Platform organization at Microsoft CoreAI offers you the chance to make a real impact. As part of the Azure AI Foundry Customization team, you’ll help build the cutting-edge platform that powers Azure’s innovation—and all of Microsoft’s flagship products, from GitHub and Microsoft 365 to Xbox. Our mission is simple but ambitious: to empower every AI application on the planet. \n\nHere, you’ll work at the heart of a deeply technical environment, designing systems that enable AI to learn, improve, and scale in production. You’ll tackle some of the toughest industry challenges — making frontier models not just powerful, but also accessible, efficient, and cost-effective for enterprises everywhere. By developing pre-training, mid-training, and post-training solutions, you’ll help organizations build AI systems that continuously learn and adapt, using the models most relevant to their workloads. \n\nThis role gives you end-to-end ownership and exposure, from high-level APIs to granular reinforcement learning controls, and from Azure ML flexibility to deploying LoRA models and inferencing at scale. You’ll deliver services, pipelines, ML recipes, evaluations, and integrations—supported by Azure’s world-class data centers and GPU infrastructure. With innovations like single-click training data generation, dynamic model routing, and a global partner ecosystem, you’ll help close the loop between deployment and learning, unlocking massive improvements in cost, speed, and reliability. \n\nApply: https://apply.careers.microsoft.com/careers/job/1970393556997609",
       1
     ],
     [
