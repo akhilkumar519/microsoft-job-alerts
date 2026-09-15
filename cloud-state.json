@@ -11,7 +11,7 @@
     ],
     [
       "last_success",
-      "2026-09-15T06:00:11.677674+00:00"
+      "2026-09-15T11:42:55.038155+00:00"
     ]
   ],
   "seen": [
@@ -76,6 +76,9 @@
       "1970393556874084"
     ],
     [
+      "1970393556875245"
+    ],
+    [
       "1970393556875419"
     ],
     [
@@ -130,7 +133,13 @@
       "1970393556938665"
     ],
     [
+      "1970393556938941"
+    ],
+    [
       "1970393556939266"
+    ],
+    [
+      "1970393556939481"
     ],
     [
       "1970393556939488"
@@ -140,6 +149,9 @@
     ],
     [
       "1970393556940449"
+    ],
+    [
+      "1970393556941666"
     ],
     [
       "1970393556942186"
@@ -265,6 +277,9 @@
       "1970393556958423"
     ],
     [
+      "1970393556958467"
+    ],
+    [
       "1970393556958483"
     ],
     [
@@ -278,6 +293,9 @@
     ],
     [
       "1970393556960679"
+    ],
+    [
+      "1970393556961334"
     ],
     [
       "1970393556961482"
@@ -323,6 +341,9 @@
     ],
     [
       "1970393556972279"
+    ],
+    [
+      "1970393556972285"
     ],
     [
       "1970393556972317"
@@ -409,6 +430,9 @@
       "1970393556988805"
     ],
     [
+      "1970393556988910"
+    ],
+    [
       "1970393556990582"
     ],
     [
@@ -424,6 +448,12 @@
       "1970393556991309"
     ],
     [
+      "1970393556991524"
+    ],
+    [
+      "1970393556991552"
+    ],
+    [
       "1970393556991764"
     ],
     [
@@ -434,6 +464,15 @@
     ],
     [
       "1970393556992461"
+    ],
+    [
+      "1970393556994902"
+    ],
+    [
+      "1970393556995097"
+    ],
+    [
+      "1970393556997808"
     ]
   ],
   "outbox": [
@@ -441,6 +480,18 @@
       "1970393556875419",
       "telegram",
       "Microsoft: Software Engineer II\nIndia, Karnataka, Bangalore + 1 more\nCheck eligibility\nAlternative or unclear requirements. A 2+ year requirement is not assumed suitable for a fresher.\nJob ID: 1970393556875419\nSource posted value: Sep 14, 2026\nFirst detected: 2026-09-14T19:18:30+00:00\n\nJob number\n200040449\nDate posted\nSep 14, 2026\nWork site\n3 days / week in-office\nTravel\nLess than 25%\nProfession\nSoftware Engineering\nDiscipline\nSoftware Engineering\nRole type\nIndividual Contributor\nEmployment type\nFull-Time\nOverview\n\n\nMicrosoft is a company where passionate innovators come to collaborate, envision what can be and take their careers further. This is a world of more possibilities, more innovation, more openness, and the sky is the limit thinking in a cloud-enabled world.\n\nMicrosoft’s Azure Data engineering team is leading the transformation of analytics in the world of data with products like databases, data integration, big data analytics, messaging & real-time analytics, and business intelligence. The products our portfolio include Microsoft Fabric, Azure SQL DB, Azure Cosmos DB, Azure PostgreSQL, Azure Data Factory, Azure Synapse Analytics, Azure Service Bus, Azure Event Grid, and Power BI. Our mission is to build the data platform for the age of AI, powering a new class of data-first applications and driving a data culture.\n\nWithin Azure Data, the databases team builds and maintains Microsoft's operational Database systems. We store and manage data in a structured way to enable multitude of applications across various industries. We are on a journey to enable developer friendly, mission-critical, AI enabled operational Databases across relational, non-relational and OSS offerings.\n\nThe Azure HorizonDB team is building a next-generation, cloud-native database platform designed for high performance, strong consistency, and seamless scalability. HorizonDB powers mission-critical applications with sub-millisecond latency, always-on availability, and deep alignment with modern, AI-driven workloads.\n\nWe are rethinking core database systems from the ground u\n\nApply: https://apply.careers.microsoft.com/careers/job/1970393556875419",
+      1
+    ],
+    [
+      "1970393556941666",
+      "telegram",
+      "Microsoft: Software Engineering IC3\nIndia, Telangana, Hyderabad\nCheck eligibility\nNo clear minimum-experience section; read the full listing.\nJob ID: 1970393556941666\nSource posted value: Sep 15, 2026\nFirst detected: 2026-09-15T11:42:51+00:00\n\nJob number\n200044714\nDate posted\nSep 15, 2026\nWork site\n3 days / week in-office\nTravel\nLess than 25%\nProfession\nSoftware Engineering\nDiscipline\nSoftware Engineering\nRole type\nIndividual Contributor\nEmployment type\nFull-Time\nOverview\n\n\nCommercial Engineering & AI (CEAI) partners closely with stakeholders to accelerate the transformation of Microsoft’s commercial business into a frontier organization. We bring together AI-native engineering, modern platforms, and deep commercial insight to reimagine how work gets done—at scale and with impact.\n\nWithin this context, the Scale and Partner AI Experiences (SPAI) organization is at the forefront of transforming Microsoft’s sales ecosystem through AI-first innovation. Our mission is to build intelligent, scalable platforms that power partner and customer success, accelerating Microsoft’s commercial growth through modern, AI-driven experiences.\n\nAs a Software Engineer, you will design and build AI-native systems that go beyond supporting workflows—they intelligently transform them. You will work across data, systems, and agentic workflows to enable faster insights, smarter decisions, and higher productivity across the global sales ecosystem.\n\n\n\nResponsibilities\n\nUnderstand end-to-end business processes, workflows, and data flows across the Microsoft sales ecosystem, and identify opportunities to simplify, automate, and agentify those experiences.\nRapidly prototype and deliver POCs and iterate on solutions using an experimentation-driven engineering approach.\nDesign, build, and ship scalable, production-quality features and intelligent services using modern engineering practices.\nCollaborate across teams to integrate systems, data, and signals into cohesive AI-powered workflows.\nDebug, troubleshoot, and improve system reliability\n\nApply: https://apply.careers.microsoft.com/careers/job/1970393556941666",
+      1
+    ],
+    [
+      "1970393556991552",
+      "telegram",
+      "Microsoft: Software Engineer II\nIndia, Karnataka, Bangalore\nCheck eligibility\nNo clear minimum-experience section; read the full listing.\nJob ID: 1970393556991552\nSource posted value: Sep 15, 2026\nFirst detected: 2026-09-15T11:42:54+00:00\n\nJob number\n200054330\nDate posted\nSep 15, 2026\nWork site\n3 days / week in-office\nTravel\nLess than 25%\nProfession\nSoftware Engineering\nDiscipline\nSoftware Engineering\nRole type\nIndividual Contributor\nEmployment type\nFull-Time\nOverview\n\n\n#MSC #MSCIDC\n\nAre you inspired to push the boundaries of how intelligent systems transform cloud experiences?\n \nDo you want to build next-generation Copilot-like experiences and AI-driven user interfaces that redefine how customers interact with cloud products?\n \nWelcome to the Edge Customer Experience team, part of Microsoft’s Specialized Cloud organization — where innovation meets real-world impact.\nWe are a team of passionate engineers, collaborators, and culture-builders delivering seamless, intelligent, and scalable experiences across the Edge portfolio — including Azure Local (formerly Azure Stack HCI), Arc Workload Orchestration, Site Manager, Azure Local Catalog, and Jumpstart.\n \nAzure Local delivers the power of Azure to the edge — a hyperconverged infrastructure (HCI) OS with cloud-managed intelligence, real-time insights, and Azure Arc integration.\n \nArc Workload Orchestration simplifies AI and application deployment across distributed edge environments using cloud-native orchestration and automation.\n \nOur team sits at the intersection of Edge + AI, building Copilot flows, inference systems, and adaptive interfaces that bring machine learning and reasoning closer to the user and the data.\n \nWe enable real-time decision-making, ultra-low-latency experiences, and trustworthy AI systems that operate securely at the edge and in the cloud.\nIf you’re passionate about AI-driven engineering — from intent understanding and data-driven insights to autonomous orchestration and predictive edge intelligence — this is where your work will ha\n\nApply: https://apply.careers.microsoft.com/careers/job/1970393556991552",
       1
     ],
     [
