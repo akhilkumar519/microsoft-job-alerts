@@ -11,7 +11,7 @@
     ],
     [
       "last_success",
-      "2026-09-16T10:19:58.396085+00:00"
+      "2026-09-16T15:08:37.820172+00:00"
     ]
   ],
   "seen": [
@@ -73,6 +73,9 @@
       "1970393556868375"
     ],
     [
+      "1970393556869811"
+    ],
+    [
       "1970393556870731"
     ],
     [
@@ -97,6 +100,9 @@
       "1970393556914241"
     ],
     [
+      "1970393556914446"
+    ],
+    [
       "1970393556914539"
     ],
     [
@@ -104,6 +110,12 @@
     ],
     [
       "1970393556918254"
+    ],
+    [
+      "1970393556919024"
+    ],
+    [
+      "1970393556919643"
     ],
     [
       "1970393556923990"
@@ -510,9 +522,21 @@
   ],
   "outbox": [
     [
+      "1970393556869811",
+      "telegram",
+      "Microsoft: ROP-Software engineer II\nIndia, Karnataka, Bangalore\nCheck eligibility\nAlternative or unclear requirements. A 2+ year requirement is not assumed suitable for a fresher.\nJob ID: 1970393556869811\nSource posted value: Sep 16, 2026\nFirst detected: 2026-09-16T15:08:37+00:00\n\nJob number\n200038474\nDate posted\nSep 16, 2026\nWork site\n3 days / week in-office\nTravel\nLess than 25%\nProfession\nSoftware Engineering\nDiscipline\nSoftware Engineering\nRole type\nIndividual Contributor\nEmployment type\nFull-Time\nOverview\n\n\nDo you want to join a world-class engineering team in India and work on hard technical challenges? Are you interested to work in a globally distributed team with an exceptional record of innovation and execution that has made us one of the largest businesses within Microsoft? If yes, keep reading… \n\n\n\nAzure SQL Database is a fast-growing platform as a service that is attracting application developers and enterprise workloads to the cloud. Our team is responsible for mission critical functions such as point in time restore, default disaster recovery and long-term retention for millions of databases. This is a great opportunity to learn and work on the internals of enterprise class relational database engines, solve hard problems and build a highly-scalable and reliable data service. You will be working in an environment where innovation is valued and will have an opportunity for direct impact on functionality, scalability, security, performance, manageability and supportability of the Azure SQL Database service. We need collaborative developers who can think big and find creative ways to meet these challenges. Come join us in the Azure Data SQL India team! \n\n\n\nMicrosoft Azure SQL Performance Engineering team to work at the forefront of large-scale cloud database systems, where you’ll ensure that we deliver world-class performance, reliability, and efficiency under demanding real-world workloads. The team designs and executes competitive benchmarks, conducts deep performance investigations, and identifies bottlenecks across compute, storage,\n\nApply: https://apply.careers.microsoft.com/careers/job/1970393556869811",
+      1
+    ],
+    [
       "1970393556875419",
       "telegram",
       "Microsoft: Software Engineer II\nIndia, Karnataka, Bangalore + 1 more\nCheck eligibility\nAlternative or unclear requirements. A 2+ year requirement is not assumed suitable for a fresher.\nJob ID: 1970393556875419\nSource posted value: Sep 14, 2026\nFirst detected: 2026-09-14T19:18:30+00:00\n\nJob number\n200040449\nDate posted\nSep 14, 2026\nWork site\n3 days / week in-office\nTravel\nLess than 25%\nProfession\nSoftware Engineering\nDiscipline\nSoftware Engineering\nRole type\nIndividual Contributor\nEmployment type\nFull-Time\nOverview\n\n\nMicrosoft is a company where passionate innovators come to collaborate, envision what can be and take their careers further. This is a world of more possibilities, more innovation, more openness, and the sky is the limit thinking in a cloud-enabled world.\n\nMicrosoft’s Azure Data engineering team is leading the transformation of analytics in the world of data with products like databases, data integration, big data analytics, messaging & real-time analytics, and business intelligence. The products our portfolio include Microsoft Fabric, Azure SQL DB, Azure Cosmos DB, Azure PostgreSQL, Azure Data Factory, Azure Synapse Analytics, Azure Service Bus, Azure Event Grid, and Power BI. Our mission is to build the data platform for the age of AI, powering a new class of data-first applications and driving a data culture.\n\nWithin Azure Data, the databases team builds and maintains Microsoft's operational Database systems. We store and manage data in a structured way to enable multitude of applications across various industries. We are on a journey to enable developer friendly, mission-critical, AI enabled operational Databases across relational, non-relational and OSS offerings.\n\nThe Azure HorizonDB team is building a next-generation, cloud-native database platform designed for high performance, strong consistency, and seamless scalability. HorizonDB powers mission-critical applications with sub-millisecond latency, always-on availability, and deep alignment with modern, AI-driven workloads.\n\nWe are rethinking core database systems from the ground u\n\nApply: https://apply.careers.microsoft.com/careers/job/1970393556875419",
+      1
+    ],
+    [
+      "1970393556919643",
+      "telegram",
+      "Microsoft: Software Engineer 2\nIndia, Telangana, Hyderabad\nCheck eligibility\nAlternative or unclear requirements. A 2+ year requirement is not assumed suitable for a fresher.\nJob ID: 1970393556919643\nSource posted value: Sep 16, 2026\nFirst detected: 2026-09-16T15:08:35+00:00\n\nJob number\n200042120\nDate posted\nSep 16, 2026\nWork site\n3 days / week in-office\nTravel\nLess than 25%\nProfession\nSoftware Engineering\nDiscipline\nSoftware Engineering\nRole type\nIndividual Contributor\nEmployment type\nFull-Time\nOverview\n\n\nMicrosoft is a company where passionate innovators come to collaborate, envision what can be and take their careers further. This is a world of more possibilities, more innovation, more openness, and the sky is the limit thinking in a cloud-enabled world. \n \nMicrosoft’s Azure Data engineering team is leading the transformation of analytics in the world of data with products like databases, data integration, big data analytics, messaging & real-time analytics, and business intelligence. The products our portfolio include Microsoft Fabric, Azure SQL DB, Azure Cosmos DB, Azure PostgreSQL, Azure Data Factory, Azure Synapse Analytics, Azure Service Bus, Azure Event Grid, and Power BI. Our mission is to build the data platform for the age of AI, powering a new class of data-first applications and driving a data culture. \n\nWithin Azure Data, the usage billing team builds the next-generation data platform for reliable ingestion, aggregation and processing of usage emitted at high volume by Microsoft services and submits to internal Commerce systems for an accurate and timely bill to customers. This is a mission critical service built for scale, compliance and data guarantees also leveraging our world class Azure Data real time messaging, streaming and analytics services to ensure critical billing usage data to flow into revenue for Microsoft. \n\nEngineers joining the team will have the opportunity to design and operate large-scale distributed systems, solve complex reliability and performance challenges, and build the next generation of intelligent\n\nApply: https://apply.careers.microsoft.com/careers/job/1970393556919643",
       1
     ],
     [
