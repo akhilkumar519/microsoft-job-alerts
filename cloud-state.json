@@ -11,7 +11,7 @@
     ],
     [
       "last_success",
-      "2026-09-16T05:35:32.460296+00:00"
+      "2026-09-16T10:19:58.396085+00:00"
     ]
   ],
   "seen": [
@@ -190,7 +190,13 @@
       "1970393556943689"
     ],
     [
+      "1970393556943705"
+    ],
+    [
       "1970393556943987"
+    ],
+    [
+      "1970393556944421"
     ],
     [
       "1970393556944795"
@@ -266,6 +272,9 @@
     ],
     [
       "1970393556957527"
+    ],
+    [
+      "1970393556957815"
     ],
     [
       "1970393556957953"
@@ -469,19 +478,34 @@
       "1970393556992461"
     ],
     [
+      "1970393556992505"
+    ],
+    [
       "1970393556994897"
     ],
     [
       "1970393556994902"
     ],
     [
+      "1970393556994919"
+    ],
+    [
       "1970393556995097"
+    ],
+    [
+      "1970393556995613"
+    ],
+    [
+      "1970393556995625"
     ],
     [
       "1970393556997609"
     ],
     [
       "1970393556997808"
+    ],
+    [
+      "1970393556998872"
     ]
   ],
   "outbox": [
@@ -498,9 +522,27 @@
       1
     ],
     [
+      "1970393556957815",
+      "telegram",
+      "Microsoft: Software Engineer II\nIndia, Telangana, Hyderabad\nCheck eligibility\nAlternative or unclear requirements. A 2+ year requirement is not assumed suitable for a fresher.\nJob ID: 1970393556957815\nSource posted value: Sep 16, 2026\nFirst detected: 2026-09-16T10:19:57+00:00\n\nJob number\n200047340\nDate posted\nSep 16, 2026\nWork site\n3 days / week in-office\nTravel\nLess than 25%\nProfession\nSoftware Engineering\nDiscipline\nSoftware Engineering\nRole type\nIndividual Contributor\nEmployment type\nFull-Time\nOverview\n\n\nJoin the Windows Print team within Microsoft’s Windows & Devices organization as we continue evolving the modern Windows Print and Scan stack, built on industry standards and a secure print platform foundation. This next phase focuses on expanding partner adoption, enabling richer customization scenarios, and delivering reliable, secure, and increasingly intelligent print and scan experiences at global scale.\n\nPrinting and scanning remain mission‑critical across enterprise, education, healthcare, and government environments. In this Software Engineer II role, you’ll work at the intersection of Windows OS internals, cloud‑connected services, security standards, and a broad partner ecosystem, contributing to AI‑enhanced experiences that improve reliability, productivity, and end‑to‑end document workflows for millions of users worldwide.\n\nMicrosoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.\n\n\n\nResponsibilities\n\nOwn, design and maintain features in the modern Windows Print and Scan stack.\nWrite effective, testable, and maintainable code with a focus on quality, reliability, and security.\nUse AI‑assisted development tools to improve productivity, code quality, and diagnosability.\nParticipate in feature design discussions, t\n\nApply: https://apply.careers.microsoft.com/careers/job/1970393556957815",
+      1
+    ],
+    [
       "1970393556991552",
       "telegram",
       "Microsoft: Software Engineer II\nIndia, Karnataka, Bangalore\nCheck eligibility\nNo clear minimum-experience section; read the full listing.\nJob ID: 1970393556991552\nSource posted value: Sep 15, 2026\nFirst detected: 2026-09-15T11:42:54+00:00\n\nJob number\n200054330\nDate posted\nSep 15, 2026\nWork site\n3 days / week in-office\nTravel\nLess than 25%\nProfession\nSoftware Engineering\nDiscipline\nSoftware Engineering\nRole type\nIndividual Contributor\nEmployment type\nFull-Time\nOverview\n\n\n#MSC #MSCIDC\n\nAre you inspired to push the boundaries of how intelligent systems transform cloud experiences?\n \nDo you want to build next-generation Copilot-like experiences and AI-driven user interfaces that redefine how customers interact with cloud products?\n \nWelcome to the Edge Customer Experience team, part of Microsoft’s Specialized Cloud organization — where innovation meets real-world impact.\nWe are a team of passionate engineers, collaborators, and culture-builders delivering seamless, intelligent, and scalable experiences across the Edge portfolio — including Azure Local (formerly Azure Stack HCI), Arc Workload Orchestration, Site Manager, Azure Local Catalog, and Jumpstart.\n \nAzure Local delivers the power of Azure to the edge — a hyperconverged infrastructure (HCI) OS with cloud-managed intelligence, real-time insights, and Azure Arc integration.\n \nArc Workload Orchestration simplifies AI and application deployment across distributed edge environments using cloud-native orchestration and automation.\n \nOur team sits at the intersection of Edge + AI, building Copilot flows, inference systems, and adaptive interfaces that bring machine learning and reasoning closer to the user and the data.\n \nWe enable real-time decision-making, ultra-low-latency experiences, and trustworthy AI systems that operate securely at the edge and in the cloud.\nIf you’re passionate about AI-driven engineering — from intent understanding and data-driven insights to autonomous orchestration and predictive edge intelligence — this is where your work will ha\n\nApply: https://apply.careers.microsoft.com/careers/job/1970393556991552",
+      1
+    ],
+    [
+      "1970393556992505",
+      "telegram",
+      "Microsoft: Software Engineer II\nIndia, Karnataka, Bangalore + 1 more\nCheck eligibility\nAlternative or unclear requirements. A 2+ year requirement is not assumed suitable for a fresher.\nJob ID: 1970393556992505\nSource posted value: Sep 16, 2026\nFirst detected: 2026-09-16T10:19:53+00:00\n\nJob number\n200054935\nDate posted\nSep 16, 2026\nWork site\n3 days / week in-office\nTravel\nLess than 25%\nProfession\nSoftware Engineering\nDiscipline\nSoftware Engineering\nRole type\nIndividual Contributor\nEmployment type\nFull-Time\nOverview\n\n\nAzure AI Search and AI Knowledge power mission-critical search, retrieval, and knowledge experiences used by customers worldwide. As AI workloads continue to grow, operational excellence, service reliability, and developer productivity are essential to delivering world-class customer experiences. \n\nWe are looking for a Software Engineer II to join the AI Knowledge engineering team and help build the next generation of observability, operational intelligence, automation, deployment, and supportability platforms that enable Azure AI services to operate reliably and efficiently at global scale. \n\nIn this role, you will develop cloud-scale systems that help engineers understand service health, diagnose problems faster, automate operational workflows, improve deployment safety, and accelerate incident resolution. You will work across monitoring, alerting, telemetry, diagnostics, release health, supportability infrastructure, AI-assisted operations, and operational insights. \n\nYou will collaborate with engineering, reliability, operations, customer support, and platform teams to build reusable capabilities that improve reliability, reduce operational burden, and enhance the customer support experience. This is an opportunity to work at the intersection of AI, cloud infrastructure, distributed systems, and service operations while helping shape how large-scale AI services are built and operated. \n\nAs a team, we are proud of what we build and how we build it. We operate with a customer-focused, evidence-based mindset, value ownership and learning,\n\nApply: https://apply.careers.microsoft.com/careers/job/1970393556992505",
+      1
+    ],
+    [
+      "1970393556995613",
+      "telegram",
+      "Microsoft: Software Engineer II\nIndia, Telangana, Hyderabad\nCheck eligibility\nNo clear minimum-experience section; read the full listing.\nJob ID: 1970393556995613\nSource posted value: Sep 16, 2026\nFirst detected: 2026-09-16T10:19:55+00:00\n\nJob number\n200055544\nDate posted\nSep 16, 2026\nWork site\n3 days / week in-office\nTravel\nLess than 25%\nProfession\nSoftware Engineering\nDiscipline\nSoftware Engineering\nRole type\nIndividual Contributor\nEmployment type\nFull-Time\nOverview\n\n\nMicrosoft’s Cloud business is expanding, and the Cloud Supply Chain (CSCP) organization is responsible for enabling the hardware infrastructure underlying this growth including AI! CSCP’s vision is to empower customers to achieve more by delivering Cloud and AI capabilities at scale. Our mission is to deliver the world's computer with an industry-leading supply chain. The CSCP organization is responsible for traditional supply chain functions such as plan, source, make, deliver, but also manages supportability (spares), sustainability, and decommissioning of datacenter assets worldwide. We deliver the core infrastructure and foundational technologies for Microsoft's over 200 online businesses including Bing, MSN, Office 365, Xbox Live, OneDrive and the Microsoft Azure platform for external customers. Our infrastructure is supported by more than 300 datacenters around the world that enable services for more than 1 billion customers in over 90 countries.\n\nThe Cloud Supply Chain Engineering (CSCP-E) group is an exciting and fast-evolving engineering group within Microsoft that powers Microsoft’s Cloud-first mission. We are responsible for supporting the supply chain that powers Microsoft's cloud infrastructure. This is a good opportunity to join a dynamic team and influence the way one of the world’s largest and fastest growing cloud environments is built and supported.\n\nMicrosoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower \n\nApply: https://apply.careers.microsoft.com/careers/job/1970393556995613",
       1
     ],
     [
