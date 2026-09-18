@@ -11,7 +11,7 @@
     ],
     [
       "last_success",
-      "2026-09-18T09:45:34.782528+00:00"
+      "2026-09-18T14:03:32.299676+00:00"
     ]
   ],
   "seen": [
@@ -544,6 +544,12 @@
       "1970393556992505"
     ],
     [
+      "1970393556992533"
+    ],
+    [
+      "1970393556992543"
+    ],
+    [
       "1970393556994897"
     ],
     [
@@ -551,6 +557,9 @@
     ],
     [
       "1970393556994911"
+    ],
+    [
+      "1970393556994914"
     ],
     [
       "1970393556994919"
@@ -577,6 +586,9 @@
       "1970393556997831"
     ],
     [
+      "1970393556998148"
+    ],
+    [
       "1970393556998437"
     ],
     [
@@ -584,6 +596,12 @@
     ],
     [
       "1970393556999479"
+    ],
+    [
+      "1970393556999499"
+    ],
+    [
+      "1970393557000845"
     ]
   ],
   "outbox": [
@@ -642,6 +660,12 @@
       1
     ],
     [
+      "1970393556992533",
+      "telegram",
+      "Microsoft: Software Engineer II\nIndia, Karnataka, Bangalore + 1 more\nCheck eligibility\nAlternative or unclear requirements. A 2+ year requirement is not assumed suitable for a fresher.\nJob ID: 1970393556992533\nSource posted value: Sep 18, 2026\nFirst detected: 2026-09-18T14:03:29+00:00\n\nJob number\n200054959\nDate posted\nSep 18, 2026\nWork site\n3 days / week in-office\nTravel\nLess than 25%\nProfession\nSoftware Engineering\nDiscipline\nSoftware Engineering\nRole type\nIndividual Contributor\nEmployment type\nFull-Time\nOverview\n\n\nAzure AI Knowledge is looking for a passionate Software Engineer to join the Azure AI Search backend team. In this role, you will build large-scale, developer-facing cloud services and solve complex engineering problems across search engines, distributed systems, information retrieval, reliability, and performance. You will work in an agile, customer-obsessed environment and contribute to the core systems that index, store, and serve data for demanding search and AI workloads. \n\nAzure AI Search is a global managed search solution. As the hosted search engine on Azure, we make it quick and easy for developers to integrate a robust set of search capabilities into their applications; Think e-commerce sites, data catalogs, large enterprise applications. Over the last few years, the service has gone through tremendous growth, expanding into new market segments, and enabling new customer scenarios. Currently, we are sitting right in center of the AI wave enabling knowledge retrieval scenarios driving future growth, we’re working to support a broader range of customer workloads in terms of data and query volume, usage patterns, and hosting modes. Independently, we’re investing heavily to improve key drivers of customer satisfaction including search relevance and developer experience.  \n\n This is a great opportunity for anyone looking to take the next step in their career and be at the forefront of what Microsoft cares about most: Data, Cloud and AI. \n\nAs a team we’re proud of what we build and how we build it. We run lean, obsess about customers \n\nApply: https://apply.careers.microsoft.com/careers/job/1970393556992533",
+      1
+    ],
+    [
       "1970393556995613",
       "telegram",
       "Microsoft: Software Engineer II\nIndia, Telangana, Hyderabad\nCheck eligibility\nNo clear minimum-experience section; read the full listing.\nJob ID: 1970393556995613\nSource posted value: Sep 16, 2026\nFirst detected: 2026-09-16T10:19:55+00:00\n\nJob number\n200055544\nDate posted\nSep 16, 2026\nWork site\n3 days / week in-office\nTravel\nLess than 25%\nProfession\nSoftware Engineering\nDiscipline\nSoftware Engineering\nRole type\nIndividual Contributor\nEmployment type\nFull-Time\nOverview\n\n\nMicrosoft’s Cloud business is expanding, and the Cloud Supply Chain (CSCP) organization is responsible for enabling the hardware infrastructure underlying this growth including AI! CSCP’s vision is to empower customers to achieve more by delivering Cloud and AI capabilities at scale. Our mission is to deliver the world's computer with an industry-leading supply chain. The CSCP organization is responsible for traditional supply chain functions such as plan, source, make, deliver, but also manages supportability (spares), sustainability, and decommissioning of datacenter assets worldwide. We deliver the core infrastructure and foundational technologies for Microsoft's over 200 online businesses including Bing, MSN, Office 365, Xbox Live, OneDrive and the Microsoft Azure platform for external customers. Our infrastructure is supported by more than 300 datacenters around the world that enable services for more than 1 billion customers in over 90 countries.\n\nThe Cloud Supply Chain Engineering (CSCP-E) group is an exciting and fast-evolving engineering group within Microsoft that powers Microsoft’s Cloud-first mission. We are responsible for supporting the supply chain that powers Microsoft's cloud infrastructure. This is a good opportunity to join a dynamic team and influence the way one of the world’s largest and fastest growing cloud environments is built and supported.\n\nMicrosoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower \n\nApply: https://apply.careers.microsoft.com/careers/job/1970393556995613",
@@ -657,6 +681,12 @@
       "1970393556997609",
       "telegram",
       "Microsoft: Software Engineer II - AI/ML Infrastructure CoreAI\nIndia, Karnataka, Bangalore\nCheck eligibility\nNo clear minimum-experience section; read the full listing.\nJob ID: 1970393556997609\nSource posted value: Sep 15, 2026\nFirst detected: 2026-09-15T19:42:39+00:00\n\nJob number\n200055581\nDate posted\nSep 15, 2026\nWork site\n3 days / week in-office\nTravel\nLess than 25%\nProfession\nSoftware Engineering\nDiscipline\nSoftware Engineering\nRole type\nIndividual Contributor\nEmployment type\nFull-Time\nOverview\n\n\nIf you’re excited by the challenge of shaping the future of AI, the AI Platform organization at Microsoft CoreAI offers you the chance to make a real impact. As part of the Azure AI Foundry Customization team, you’ll help build the cutting-edge platform that powers Azure’s innovation—and all of Microsoft’s flagship products, from GitHub and Microsoft 365 to Xbox. Our mission is simple but ambitious: to empower every AI application on the planet. \n\nHere, you’ll work at the heart of a deeply technical environment, designing systems that enable AI to learn, improve, and scale in production. You’ll tackle some of the toughest industry challenges — making frontier models not just powerful, but also accessible, efficient, and cost-effective for enterprises everywhere. By developing pre-training, mid-training, and post-training solutions, you’ll help organizations build AI systems that continuously learn and adapt, using the models most relevant to their workloads. \n\nThis role gives you end-to-end ownership and exposure, from high-level APIs to granular reinforcement learning controls, and from Azure ML flexibility to deploying LoRA models and inferencing at scale. You’ll deliver services, pipelines, ML recipes, evaluations, and integrations—supported by Azure’s world-class data centers and GPU infrastructure. With innovations like single-click training data generation, dynamic model routing, and a global partner ecosystem, you’ll help close the loop between deployment and learning, unlocking massive improvements in cost, speed, and reliability. \n\nApply: https://apply.careers.microsoft.com/careers/job/1970393556997609",
+      1
+    ],
+    [
+      "1970393557000845",
+      "telegram",
+      "Microsoft: Software Engineer 2 - Backend\nIndia, Karnataka, Bangalore\nCheck eligibility\nAlternative or unclear requirements. A 2+ year requirement is not assumed suitable for a fresher.\nJob ID: 1970393557000845\nSource posted value: Sep 18, 2026\nFirst detected: 2026-09-18T14:03:31+00:00\n\nJob number\n200056508\nDate posted\nSep 18, 2026\nWork site\n3 days / week in-office\nTravel\nLess than 25%\nProfession\nSoftware Engineering\nDiscipline\nSoftware Engineering\nRole type\nIndividual Contributor\nEmployment type\nFull-Time\nOverview\n\n\nAre you passionate about developing cutting-edge technology that impacts millions of users worldwide? The Microsoft Search, Assistance, and Intelligence (MSAI) team is looking for talented software developers to work on innovative cloud search services and prompt experiences for products like M365 Copilot and Copilot Search.   \n\nAs a Software Engineer II on the MSAI team, you will have the opportunity to:   \n\nBuild and develop emerging M365 copilot platform: Develop new features that enhance M365 Copilot chat and copilot search experiences. Improve productivity of enterprise users leveraging power of copilot through prompt assistance and Microsoft Graph entities such as files, emails, meetings, 1P and 3P connectors.   \nWork on Scalable Services: Design and implement scalable software services running on thousands of servers in the cloud. Leverage a mix of methods from API design, Machine Learning, LLMs, Distributed Computing, Algorithm Optimization, and more to design new systems.   \n\nWhy Join Us?   \n\nImpact Millions: Your work will directly enhance the search and assistance experience for millions of M365 users across various platforms like M365 Copilot, Outlook, Teams, SharePoint and Windows.   \nCollaborative Environment: Work alongside a team of highly skilled and passionate professionals in a collaborative and innovative environment.   \nCutting-Edge Technology: Be at the forefront of technological advancements and contribute to the development of powerful enterprise search and assistance solutions.      \nIf you are excited about buildi\n\nApply: https://apply.careers.microsoft.com/careers/job/1970393557000845",
       1
     ],
     [
