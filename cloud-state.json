@@ -2,6 +2,10 @@
   "version": 1,
   "meta": [
     [
+      "cloud_paused",
+      "1"
+    ],
+    [
       "cloud_verified",
       "1"
     ],
